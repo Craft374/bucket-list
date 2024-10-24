@@ -5,6 +5,8 @@
 
 ❇️는 진행중
 
+❎는 취소
+
 - [ ] 는 아직 못함
 
 **볼드체**는 일시정지
@@ -13,9 +15,9 @@
 ## 유니티 개발
 |✅|Name|Reason|
 |-|-|-|
-|❇️|**Rotashape**|유니티 게임 개발|
-||NULCTRL|유니티 게임 개발|
-|❇️|Job게임|유니티 게임 개발|
+|❇️|Rotashape|유니티 게임 개발|
+|❎|NULCTRL|유니티 게임 개발|
+|❎|Job게임|유니티 게임 개발|
 |✅|Root|유니티 앱 개발|
 
 ## 웹 개발
@@ -23,7 +25,7 @@
 |-|-|-|
 ||PortFolio Website|HTML과 CSS를 활용한 포트폴리오 사이트|
 |❇️|**Wordle Clone**|JS로 워들 구현|
-||Change Maker Website|HTML과 CSS를 활용한 체인지 메이커 사이트|
+|❎|Change Maker Website|HTML과 CSS를 활용한 체인지 메이커 사이트|
 ||Pyscript Website|Pyscript를 활용한 사이트|
 
 # Design
